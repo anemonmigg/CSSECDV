@@ -14,7 +14,7 @@ Use this when creating a feature (e.g. new component, functionality, etc.)
 **syntax**: `feat(feature): [COMMIT MESSAGE]`
 
 ### BREAKING CHANGE
-Use this when a breaking change is pushed to the repository (pag breaking change yung commit, masisira yung code pag hinalo mo sa mas lumang version) 
+Use this when a breaking change is pushed to the repository (pag breaking change yung commit, masisira yung code pag hinalo mo sa mas lumang version)
 **syntax**: `BREAKING CHANGE: [explanation]`
 *note:* This must be placed in the footer of the commit message.
 
